@@ -2,7 +2,7 @@
 
 ### 项目概览（SpringBoot + Spring Data JPA + PostgreSQL）
 
-![](./project- overview.png)
+![](./project-overview.png)
 
 ### 学生类（Student Class）
 
